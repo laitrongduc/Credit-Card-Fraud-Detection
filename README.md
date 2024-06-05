@@ -15,7 +15,7 @@ We implemented and compared multiple machine learning algorithms, including Rand
 | logistic        | 95.2      | 97.4     | 5.8       | 91.8   | 10.9 | 97.0    | 72.4   |
 
 
-![](prauc.png)
+![](assets/prauc.png)
 
 
 
